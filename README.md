@@ -13,7 +13,7 @@ A shell script that help beginers to install requirements and tools needed for s
 5. enjoy...................
 
 
-incase of anything ......more ethical hacking follow me https://www.youtube.com/channel/UC5SpJc-fVZ5Kb6ZHfAoZ9Sw
+
 
 
 
